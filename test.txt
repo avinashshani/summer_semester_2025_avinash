@@ -6,3 +6,4 @@ AIML
 btech cse aiml
 cafe ccd
 avinash shani
+scm
